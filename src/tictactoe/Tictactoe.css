@@ -10,4 +10,7 @@ table td {
   border: 1px solid grey;
   width: 100px;
   height: 100px;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 600;
 }
